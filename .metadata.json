@@ -1,0 +1,10 @@
+[
+  {
+    "package": "rapbase",
+    "oncran": true
+  },
+  {
+    "package": "sship",
+    "oncran": true
+  }
+]

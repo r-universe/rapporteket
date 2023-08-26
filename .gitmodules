@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "rapbase"]
-	path = rapbase
-	url = https://github.com/rapporteket/rapbase
 [submodule "sship"]
 	path = sship
 	url = https://github.com/rapporteket/sship
